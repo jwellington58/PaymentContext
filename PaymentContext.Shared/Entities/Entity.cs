@@ -1,10 +1,11 @@
-﻿using System;
+﻿using Flunt.Notifications;
+using System;
 
 namespace PaymentContext.Shared.Entities
 {
-    public abstract class Entity
+    public abstract class Entity : Notifiable<Notification>
     {
-        protected Entity()
+        protected Entity() 
         {
             Id = Guid.NewGuid();
         }

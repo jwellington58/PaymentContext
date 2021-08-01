@@ -2,9 +2,21 @@
   "version": 3,
   "targets": {
     "net5.0": {
+      "Flunt/2.0.4": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Flunt.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Flunt.dll": {}
+        }
+      },
       "PaymentContext.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Flunt": "2.0.4"
+        },
         "compile": {
           "bin/placeholder/PaymentContext.Shared.dll": {}
         },
@@ -15,6 +27,19 @@
     }
   },
   "libraries": {
+    "Flunt/2.0.4": {
+      "sha512": "0hBUXlsxLH2vsp3KGbRWp4nVqdn6XVuqUm8uW3C2vn8hVIspC1A5YKNQNP9jOGXFZgmKFUa3AUAQRxeWOYlZdg==",
+      "type": "package",
+      "path": "flunt/2.0.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "flunt.2.0.4.nupkg.sha512",
+        "flunt.nuspec",
+        "icon.png",
+        "lib/netstandard2.0/Flunt.dll"
+      ]
+    },
     "PaymentContext.Shared/1.0.0": {
       "type": "project",
       "path": "../PaymentContext.Shared/PaymentContext.Shared.csproj",
@@ -23,6 +48,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Flunt >= 2.0.4",
       "PaymentContext.Shared >= 1.0.0"
     ]
   },
@@ -68,6 +94,12 @@
     "frameworks": {
       "net5.0": {
         "targetAlias": "net5.0",
+        "dependencies": {
+          "Flunt": {
+            "target": "Package",
+            "version": "[2.0.4, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
