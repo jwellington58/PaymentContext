@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mpddc6fr6I2gghZ9P7EeGJhVIsBx0fUC58RJVaCxGqNPaTALDl7Jy6RCXGzNCQsfyo512ve+fg319tD9DTjYqQ==",
+  "dgSpecHash": "cvCxS0h9UfYLaHyELYF5vwoakEDhvKSiybQzngfnLLsA7qwxNxPkTqI9Cipnx4DSEAwaZJvBs6tiaL2OyC8oig==",
   "success": true,
-  "projectFilePath": "D:\\Users\\wj070\\Desktop\\Projetos\\dotnet\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Cliente\\.nuget\\packages\\flunt\\2.0.4\\flunt.2.0.4.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\welli\\Desktop\\Projetos\\Estudos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
