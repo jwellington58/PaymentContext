@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "wq1vXq/UCWr14zZrJWeyDjHhTdODwT7SfUHcrEdBX52uvsVFmooYH2iOfS42umZN7DwRNCOT2EjMZfkr7FjHoQ==",
+  "dgSpecHash": "7gkkZtiJGiCx8U43HP/+fnz1mWF1ib5MhmRMzieYz+Ff3arWwflK3px6b4gqIqxDzXejSGHNN/B69iWWxpS4Nw==",
   "success": true,
   "projectFilePath": "C:\\Users\\welli\\Desktop\\Projetos\\Estudos\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\welli\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

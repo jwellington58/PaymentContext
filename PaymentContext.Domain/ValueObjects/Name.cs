@@ -1,9 +1,5 @@
-﻿using PaymentContext.Shared.ValueObjects;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Flunt.Validations;
+using PaymentContext.Shared.ValueObjects;
 
 namespace PaymentContext.Domain.ValueObjects
 {
@@ -13,6 +9,11 @@ namespace PaymentContext.Domain.ValueObjects
         {
             FirstName = firstName;
             LastName = lastName;
+
+            AddNotifications(new Contract<Name>()
+                .Requires()
+                .IsLowerThan(FirstName, 3, nameof(FirstName), "The min len for First name is 3")
+            );
         }
 
         public string FirstName { get; private set; }
