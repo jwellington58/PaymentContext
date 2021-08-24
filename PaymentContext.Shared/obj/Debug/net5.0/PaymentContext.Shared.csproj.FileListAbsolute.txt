@@ -10,15 +10,3 @@ D:\Users\wj070\Desktop\Projetos\dotnet\PaymentContext\PaymentContext.Shared\obj\
 D:\Users\wj070\Desktop\Projetos\dotnet\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.dll
 D:\Users\wj070\Desktop\Projetos\dotnet\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\ref\PaymentContext.Shared.dll
 D:\Users\wj070\Desktop\Projetos\dotnet\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.pdb
-C:\Users\welli\Desktop\Projetos\Estudos\PaymentContext\PaymentContext.Shared\bin\Debug\net5.0\PaymentContext.Shared.deps.json
-C:\Users\welli\Desktop\Projetos\Estudos\PaymentContext\PaymentContext.Shared\bin\Debug\net5.0\PaymentContext.Shared.dll
-C:\Users\welli\Desktop\Projetos\Estudos\PaymentContext\PaymentContext.Shared\bin\Debug\net5.0\ref\PaymentContext.Shared.dll
-C:\Users\welli\Desktop\Projetos\Estudos\PaymentContext\PaymentContext.Shared\bin\Debug\net5.0\PaymentContext.Shared.pdb
-C:\Users\welli\Desktop\Projetos\Estudos\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.csprojAssemblyReference.cache
-C:\Users\welli\Desktop\Projetos\Estudos\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\welli\Desktop\Projetos\Estudos\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.AssemblyInfoInputs.cache
-C:\Users\welli\Desktop\Projetos\Estudos\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.AssemblyInfo.cs
-C:\Users\welli\Desktop\Projetos\Estudos\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.csproj.CoreCompileInputs.cache
-C:\Users\welli\Desktop\Projetos\Estudos\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.dll
-C:\Users\welli\Desktop\Projetos\Estudos\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\ref\PaymentContext.Shared.dll
-C:\Users\welli\Desktop\Projetos\Estudos\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.pdb
